@@ -36,6 +36,7 @@ In other words, replacing the ninth graders’ math and reading scores results i
 * The average reading score for each grade level from each school
 
 ![](Resources/rsbg.png)
+
 Replacing the ninth-grade scores does not affect Math and reading scores by grade much, just the 9th grade information in Thomas High School is omitted and showed NaN.
 
 * Scores by school spending
