@@ -48,11 +48,13 @@ Since Thomas High School is in $630-$644 spending range per student, so the Scor
 * Scores by school size
 
 ![](Resources/sbssize.png)
+
 Since the student count in Thomas High School is 1635, falls in the medium school size, so the Scores by school size summary is only affected on this column. Replacing the ninth-grade scores in Thomas High School results in a slightly lower average math score, math passing rate, reading passing rate and also overall passing rate in medium school catergory.
 
 * Scores by school type
 
 ![](Resources/sbstype.png)
+
 Since the Thomas High School is a Charter school, so the Scores by school type summary is only affected in this catergory. Replacing the ninth-grade scores in Thomas High School results in a slightly lower average math score, math passing rate, reading passing rate and also overall passing rate in Charter school type.
 
 ## Summary
