@@ -58,8 +58,7 @@ Since the student count in Thomas High School is 1635, falls in the medium schoo
 Since the Thomas High School is a Charter school, so the Scores by school type summary is only affected in this catergory. Replacing the ninth-grade scores in Thomas High School results in a slightly lower average math score, math passing rate, reading passing rate and also overall passing rate in Charter school type.
 
 ## Summary
-All in all, replacing Thomas High School results in a slightly lower average math score, math passing rate, reading passing rate and also overall passing rate. But since the change is not much, only visible to two or more decimal places. If we round the numbers to integer or even one decimal palce, the result might be the same
-
+All in all, excluding the 9th grader in Thomas High School doesn't affect the whole data set much, the percentage differenc in the aspects disscuss above is not obviouse. If we round the number to integer, it is the same compare to the original. That is the reason we don't format the summary report and keep the results in long decimal places. 
 
 
 
